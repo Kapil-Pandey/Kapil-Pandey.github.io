@@ -160,77 +160,6 @@
             border-radius: 2px;
         }
         
-        /* Video Showcase Section */
-        .video-showcase {
-            max-width: 900px;
-            margin: 0 auto;
-        }
-        
-        .video-intro {
-            text-align: center;
-            margin-bottom: 3rem;
-        }
-        
-        .video-intro p {
-            font-size: 1.15rem;
-            color: #555;
-            line-height: 1.8;
-            margin-bottom: 1rem;
-        }
-        
-        .video-container {
-            position: relative;
-            width: 100%;
-            padding-bottom: 56.25%; /* 16:9 aspect ratio */
-            height: 0;
-            overflow: hidden;
-            border-radius: 12px;
-            box-shadow: 0 10px 40px rgba(0,0,0,0.15);
-        }
-        
-        .video-container iframe {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            border-radius: 12px;
-        }
-        
-        .video-details {
-            background: white;
-            padding: 2rem;
-            margin-top: 2rem;
-            border-radius: 12px;
-            box-shadow: 0 5px 20px rgba(0,0,0,0.08);
-        }
-        
-        .video-details h3 {
-            color: #1a237e;
-            margin-bottom: 1rem;
-            font-size: 1.5rem;
-        }
-        
-        .video-details ul {
-            list-style: none;
-            padding-left: 0;
-        }
-        
-        .video-details li {
-            padding: 0.5rem 0;
-            color: #555;
-            padding-left: 1.5rem;
-            position: relative;
-        }
-        
-        .video-details li:before {
-            content: "▸";
-            position: absolute;
-            left: 0;
-            color: #3949ab;
-            font-weight: bold;
-        }
-        
         /* Projects Grid */
         .projects-grid {
             display: grid;
@@ -326,6 +255,77 @@
             border-radius: 20px;
             font-size: 0.85rem;
             font-weight: 500;
+        }
+        
+        /* Video Showcase Section */
+        .video-showcase {
+            max-width: 900px;
+            margin: 0 auto;
+        }
+        
+        .video-intro {
+            text-align: center;
+            margin-bottom: 3rem;
+        }
+        
+        .video-intro p {
+            font-size: 1.15rem;
+            color: #555;
+            line-height: 1.8;
+            margin-bottom: 1rem;
+        }
+        
+        .video-container {
+            position: relative;
+            width: 100%;
+            padding-bottom: 56.25%; /* 16:9 aspect ratio */
+            height: 0;
+            overflow: hidden;
+            border-radius: 12px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.15);
+        }
+        
+        .video-container iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border-radius: 12px;
+        }
+        
+        .video-details {
+            background: white;
+            padding: 2rem;
+            margin-top: 2rem;
+            border-radius: 12px;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.08);
+        }
+        
+        .video-details h3 {
+            color: #1a237e;
+            margin-bottom: 1rem;
+            font-size: 1.5rem;
+        }
+        
+        .video-details ul {
+            list-style: none;
+            padding-left: 0;
+        }
+        
+        .video-details li {
+            padding: 0.5rem 0;
+            color: #555;
+            padding-left: 1.5rem;
+            position: relative;
+        }
+        
+        .video-details li:before {
+            content: "▸";
+            position: absolute;
+            left: 0;
+            color: #3949ab;
+            font-weight: bold;
         }
         
         /* Skills Section */
@@ -527,8 +527,8 @@
             <div class="logo">Kapil Pandey</div>
             <ul>
                 <li><a href="#home">Home</a></li>
-                <li><a href="#presentation">Presentation</a></li>
                 <li><a href="#projects">Projects</a></li>
+                <li><a href="#presentation">Presentation</a></li>
                 <li><a href="#skills">Skills</a></li>
                 <li><a href="#about">About</a></li>
                 <li><a href="#contact">Contact</a></li>
@@ -546,50 +546,13 @@
             that drive business impact and operational excellence.
         </p>
         <div class="cta-buttons">
-            <a href="#presentation" class="btn btn-primary">Watch My Presentation</a>
-            <a href="#projects" class="btn btn-secondary">View Projects</a>
-        </div>
-    </section>
-
-    <!-- Presentation Section -->
-    <section id="presentation" style="background: #f5f7fa;">
-        <h2>Stakeholder Presentation</h2>
-        <div class="video-showcase">
-            <div class="video-intro">
-                <p>
-                    Watch my comprehensive stakeholder presentation on the Mining Safety Analysis project, 
-                    demonstrating my ability to communicate complex technical insights to business leaders 
-                    and drive data-informed decision making.
-                </p>
-            </div>
-            
-            <div class="video-container">
-                <!-- REPLACE THIS URL WITH YOUR YOUTUBE VIDEO URL -->
-                <iframe 
-                    src="https://www.youtube.com/watch?v=1jP4WoGlnyE" 
-                    title="Mining Safety Analysis Presentation" 
-                    frameborder="0" 
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-                    allowfullscreen>
-                </iframe>
-            </div>
-            
-            <div class="video-details">
-                <h3>Presentation Highlights</h3>
-                <ul>
-                    <li>25-year analysis of 270,000+ mining accidents</li>
-                    <li>99.99% ROC-AUC machine learning prediction model</li>
-                    <li>NLP-powered root cause analysis using SBERT and K-Means</li>
-                    <li>Actionable business recommendations with projected 30-40% accident reduction</li>
-                    <li>Interactive Gradio dashboard demonstration</li>
-                    <li>Clear ROI analysis and implementation roadmap</li>
-                </ul>
-            </div>
+            <a href="#projects" class="btn btn-primary">View My Projects</a>
+            <a href="#presentation" class="btn btn-secondary">Watch Presentation</a>
         </div>
     </section>
 
     <!-- Projects Section -->
-    <section id="projects">
+    <section id="projects" style="background: #f5f7fa;">
         <h2>Featured Projects</h2>
         <div class="projects-grid">
             <!-- Project 1: Mining Safety Analysis -->
@@ -621,7 +584,35 @@
                 </div>
             </div>
 
-            <!-- Project 2: Fraud Detection -->
+            <!-- Project 2: Consumer Complaints Analysis -->
+            <div class="project-card">
+                <img src="assets/images/complaints-project.png" alt="CFPB Consumer Complaints" 
+                     onerror="this.src='https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&h=400&fit=crop'">
+                <div class="project-card-content">
+                    <h3>Consumer Financial Protection Bureau (CFPB) Complaints Analysis</h3>
+                    <p>NLP-powered analysis of JPMorgan Chase consumer complaints (2019-2025) to uncover recurring issues, geographic patterns, and product-specific pain points for targeted improvements.</p>
+                    
+                    <div class="project-highlights">
+                        <h4>Key Achievements:</h4>
+                        <ul>
+                            <li>Topic modeling via TF-IDF + K-Means clustering</li>
+                            <li>4 states account for 50% of complaints</li>
+                            <li>Fraud/unauthorized transactions most frequent</li>
+                            <li>Continuous "Complaint Intelligence" dashboard</li>
+                        </ul>
+                    </div>
+                    
+                    <div class="project-tags">
+                        <span class="tag">NLP</span>
+                        <span class="tag">TF-IDF</span>
+                        <span class="tag">K-Means</span>
+                        <span class="tag">Text Mining</span>
+                        <span class="tag">Visualization</span>
+                    </div>
+                    <a href="projects/CFPB_Consumer_complaint.ipynb" class="btn btn-primary" style="font-size: 0.95rem; padding: 10px 24px;">View Project</a>
+                </div>
+            </div>
+            <!-- Project 3: Fraud Detection -->
             <div class="project-card">
                 <img src="assets/images/fraud-project.png" alt="Bank Fraud Detection" 
                      onerror="this.src='https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=600&h=400&fit=crop'">
@@ -650,7 +641,7 @@
                 </div>
             </div>
 
-            <!-- Project 3: Customer Churn Prediction -->
+            <!-- Project 4: Customer Churn Prediction -->
             <div class="project-card">
                 <img src="assets/images/churn-project.png" alt="Telco Customer Churn" 
                      onerror="this.src='https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&fit=crop'">
@@ -678,34 +669,42 @@
                     <a href="projects/Telco_Customer_Churn.ipynb" class="btn btn-primary" style="font-size: 0.95rem; padding: 10px 24px;">View Project</a>
                 </div>
             </div>
+        </div>
+    </section>
 
-            <!-- Project 4: Consumer Complaints Analysis -->
-            <div class="project-card">
-                <img src="assets/images/complaints-project.png" alt="CFPB Consumer Complaints" 
-                     onerror="this.src='https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&h=400&fit=crop'">
-                <div class="project-card-content">
-                    <h3>Consumer Complaints Intelligence</h3>
-                    <p>NLP-powered analysis of JPMorgan Chase consumer complaints (2019-2025) to uncover recurring issues, geographic patterns, and product-specific pain points for targeted improvements.</p>
-                    
-                    <div class="project-highlights">
-                        <h4>Key Achievements:</h4>
-                        <ul>
-                            <li>Topic modeling via TF-IDF + K-Means clustering</li>
-                            <li>4 states account for 50% of complaints</li>
-                            <li>Fraud/unauthorized transactions most frequent</li>
-                            <li>Continuous "Complaint Intelligence" dashboard</li>
-                        </ul>
-                    </div>
-                    
-                    <div class="project-tags">
-                        <span class="tag">NLP</span>
-                        <span class="tag">TF-IDF</span>
-                        <span class="tag">K-Means</span>
-                        <span class="tag">Text Mining</span>
-                        <span class="tag">Visualization</span>
-                    </div>
-                    <a href="projects/CFPB_Consumer_complaint.ipynb" class="btn btn-primary" style="font-size: 0.95rem; padding: 10px 24px;">View Project</a>
-                </div>
+    <!-- Presentation Section -->
+    <section id="presentation">
+        <h2>Stakeholder Presentation</h2>
+        <div class="video-showcase">
+            <div class="video-intro">
+                <p>
+                    Watch my comprehensive stakeholder presentation on the Mining Safety Analysis project, 
+                    demonstrating my ability to communicate complex technical insights to business leaders 
+                    and drive data-informed decision making.
+                </p>
+            </div>
+            
+            <div class="video-container">
+                <iframe 
+                    src="https://www.youtube.com/embed/RFXaF64vgrg" 
+                    title="Mining Safety Analysis Presentation" 
+                    frameborder="0" 
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                    referrerpolicy="strict-origin-when-cross-origin"
+                    allowfullscreen>
+                </iframe>
+            </div>
+            
+            <div class="video-details">
+                <h3>Presentation Highlights</h3>
+                <ul>
+                    <li>25-year analysis of 270,000+ mining accidents</li>
+                    <li>99.99% ROC-AUC machine learning prediction model</li>
+                    <li>NLP-powered root cause analysis using SBERT and K-Means</li>
+                    <li>Actionable business recommendations with projected 30-40% accident reduction</li>
+                    <li>Interactive Gradio dashboard demonstration</li>
+                    <li>Clear ROI analysis and implementation roadmap</li>
+                </ul>
             </div>
         </div>
     </section>
@@ -772,14 +771,14 @@
             </p>
             <p>
                 I specialize in <strong>supervised and unsupervised learning</strong>, <strong>natural language processing</strong>, 
-                and <strong>risk analytics</strong>. My recent work includes building a 99.99% accurate accident 
-                severity prediction system for the mining industry, fraud detection models for banking, and 
-                customer churn prediction systems for telecommunications.
+                <strong>risk analytics</strong> and more. My recent work includes building a 99.99% accurate accident 
+                severity prediction system for the mining industry, Consumer Financial Protection Bureau (CFPB) Complaints Analysis,
+                fraud detection models for banking, and customer churn prediction systems for telecommunications.
             </p>
             <p>
                 I'm particularly skilled at translating technical insights into actionable business recommendations, 
-                having delivered comprehensive stakeholder presentations and executive summaries for Fortune 500 
-                companies and regulatory bodies.
+                having delivered comprehensive stakeholder presentations and executive summaries for Mining companies and Mining 
+                regulatory government bodies.
             </p>
             <div class="highlight">
                 <p>
@@ -801,15 +800,15 @@
                 collaborations or opportunities!
             </p>
             <div class="contact-links">
-                <a href="mailto:your.email@example.com" class="contact-link">
+                <a href="mailto:kapil.pandey@outlook.com.au" class="contact-link">
                     <div class="contact-icon">✉</div>
                     <span>Email</span>
                 </a>
-                <a href="https://linkedin.com/in/yourprofile" target="_blank" class="contact-link">
+                <a href="https://www.linkedin.com/in/kapillpandey/" target="_blank" class="contact-link">
                     <div class="contact-icon">in</div>
                     <span>LinkedIn</span>
                 </a>
-                <a href="https://github.com/Kapil-Pandey" target="_blank" class="contact-link">
+                <a href="https://github.com/Kapil-Pandey/Kapil-Pandey.github.io" target="_blank" class="contact-link">
                     <div class="contact-icon">⌘</div>
                     <span>GitHub</span>
                 </a>
@@ -819,9 +818,9 @@
 
     <!-- Footer -->
     <footer>
-        <p>&copy; 2025 Kapil Pandey. All rights reserved.</p>
+        <p>&copy; 2026 Kapil Pandey. All rights reserved.</p>
         <p style="margin-top: 0.8rem; opacity: 0.85; font-size: 0.95rem;">
-            Built with passion for data science and continuous learning.
+            Built with passion for Data Science, AI and continuous learning.
         </p>
     </footer>
 </body>
