@@ -2,11 +2,11 @@
 
 Welcome to my data science portfolio! This repository showcases my expertise in machine learning, natural language processing, and predictive analytics through real-world projects.
 
-🌐 **Portfolio Website:** [https://Kapil-Pandey.github.io](https://Kapil-Pandey.github.io)
+ **Portfolio Website:** [https://Kapil-Pandey.github.io](https://Kapil-Pandey.github.io)
 
 ---
 
-## 📊 Featured Projects
+##  Featured Projects
 
 ### 1. Mining Safety Analysis & Prediction
 **[View Full Notebook](./projects/Mining_Accident_Analysis_Project.ipynb)**
@@ -77,32 +77,31 @@ Predictive modeling to identify at-risk customers for TelcoConnect, enabling pro
 ---
 
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 **Programming & Tools:**
-- Python, SQL, GitHub, Jupyter Notebook, 
+- Python, SQL, GitHub, Jupyter Notebook, Excel, SageMaker, Gradio, BigQuery(Familiar), Tableau & PowerBI(Familiar)
 
 **Machine Learning:**
 - Supervised Learning Models
 - Unsupervised Learning Models
-- Model Evaluations
-
-**Natural Language Processing:**
-- Sentence Embeddings (SBERT)
-- TF-IDF Vectorization
-- Topic Modeling & Clustering
-- Keyphrase Extraction (YAKE)
-- Text Preprocessing & Lemmatization
+- Deep Learning & Neural Networks
+- Natural Language Processing (NLP)
+- Feature Engineering & Model Evaluation
+- Time Series Forecasting
+- Model Deployment
+- Large Language Models (LLMs)
 
 **Data Analysis & Visualization:**
 - Pandas, NumPy, Matplotlib, Seaborn, Plotly
-- Statistical Testings
+- Data cleaning, Data visualization
+- Statistical Testings/Analysis
 - Geospatial Analysis, Geo-locations analysis
 - Interactive Dashboards (Gradio)
 
 ---
 
-## 📫 Contact
+##  Contact
 
 - **Email:** kapil.pandey@outlook.com.au
 - **LinkedIn:** [kapillpandey](https://www.linkedin.com/in/kapillpandey/)
@@ -110,20 +109,20 @@ Predictive modeling to identify at-risk customers for TelcoConnect, enabling pro
 
 ---
 
-## 📝 About Me
+##  About Me
 
 I'm a data scientist specializing in machine learning, NLP, and predictive analytics. My work focuses on transforming complex data into actionable insights that drive business impact. I have extensive experience in:
 
 - Building end-to-end ML pipelines from data wrangling to model deployment
 - Applying NLP techniques to extract insights from unstructured text data
-- Creating interactive dashboards and stakeholder presentations
+- Creating interactive Gradio dashboards and stakeholder presentations
 - Translating technical findings into business recommendations
 
 I'm actively seeking data science and machine learning opportunities where I can contribute to solving challenging real-world problems.
 
 ---
 
-## 🚀 How to Use This Repository
+##  How to Use This Repository
 
 1. **Explore Projects:** Navigate to the `projects/` folder to view Jupyter notebooks
 2. **View Online:** Visit [Kapil-Pandey.github.io](https://Kapil-Pandey.github.io) for the full portfolio website
@@ -137,4 +136,4 @@ jupyter notebook
 
 ---
 
-⭐ If you find these projects interesting, please consider starring this repository!
+ If you find these projects interesting, please consider starring this repository!
