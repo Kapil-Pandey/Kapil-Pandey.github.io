@@ -118,7 +118,15 @@ Predictive modeling to identify at-risk customers for TelcoConnect, enabling pro
 ##  Technical Skills
 
 **Programming & Tools:**
-- Python, SQL, GitHub, Jupyter Notebook, Excel, SageMaker, Gradio, BigQuery(Familiar), Tableau & PowerBI(Familiar)
+- Python
+- SQL
+- GitHub
+- Jupyter Notebook
+- Excel
+- SageMaker
+- Gradio
+- BigQuery(Familiar)
+- Tableau & PowerBI(Familiar)
 
 **Machine Learning:**
 - Supervised Learning Models
