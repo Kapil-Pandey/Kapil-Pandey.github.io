@@ -26,7 +26,23 @@ Comprehensive analysis of 25 years of MSHA accident data (270,000+ incidents) to
 
 ---
 
-### 2. Bank Fraud Detection System
+### 2. Consumer Financial Protection Bureau (CFPB )Consumer Complaints
+**[View Full Notebook](./projects/CFPB_Consumer_complaint.ipynb)**
+
+NLP-powered analysis of JPMorgan Chase consumer complaints (2019-2025) to uncover recurring issues, geographic patterns, and product-specific pain points.
+
+**Key Achievements:**
+- Topic modeling using TF-IDF + K-Means clustering
+- Discovered 4 states (CA, TX, FL, NY) account for 50% of total complaints
+- Identified fraud/unauthorized transactions as most frequent complaint
+- Built "Complaint Intelligence" dashboard framework
+
+**Technologies:** Python, NLP, TF-IDF, K-Means Clustering, Spacy, Text Mining, Pandas, Visualization
+
+**Business Impact:** Data-driven complaint reduction strategy, improved customer experience, enhanced regulatory compliance.
+
+---
+### 3. Bank Fraud Detection System
 **[View Full Notebook](./projects/Fraud_bank_transactions.ipynb)**
 
 Statistical analysis and anomaly detection to identify fraudulent banking transactions, including account takeovers, card skimming, and multi-device fraud patterns.
@@ -43,7 +59,7 @@ Statistical analysis and anomaly detection to identify fraudulent banking transa
 
 ---
 
-### 3. Telco Customer Churn Prediction
+### 4. Telco Customer Churn Prediction
 **[View Full Notebook](./projects/Telco_Customer_Churn.ipynb)**
 
 Predictive modeling to identify at-risk customers for TelcoConnect, enabling proactive retention strategies and reducing customer acquisition costs.
@@ -60,32 +76,16 @@ Predictive modeling to identify at-risk customers for TelcoConnect, enabling pro
 
 ---
 
-### 4. Consumer Complaints Intelligence
-**[View Full Notebook](./projects/CFPB_Consumer_complaint.ipynb)**
-
-NLP-powered analysis of JPMorgan Chase consumer complaints (2019-2025) to uncover recurring issues, geographic patterns, and product-specific pain points.
-
-**Key Achievements:**
-- Topic modeling using TF-IDF + K-Means clustering
-- Discovered 4 states (CA, TX, FL, NY) account for 50% of total complaints
-- Identified fraud/unauthorized transactions as most frequent complaint
-- Built "Complaint Intelligence" dashboard framework
-
-**Technologies:** Python, NLP, TF-IDF, K-Means Clustering, Spacy, Text Mining, Pandas, Visualization
-
-**Business Impact:** Data-driven complaint reduction strategy, improved customer experience, enhanced regulatory compliance.
-
----
 
 ## 🛠️ Technical Skills
 
 **Programming & Tools:**
-- Python (Expert), SQL, Git/GitHub, Jupyter Notebook
+- Python, SQL, GitHub, Jupyter Notebook, 
 
 **Machine Learning:**
-- Supervised Learning: Random Forest, XGBoost, Logistic Regression, SVM
-- Unsupervised Learning: K-Means Clustering, DBSCAN
-- Model Evaluation: ROC-AUC, Precision, Recall, F1-Score, Confusion Matrix
+- Supervised Learning Models
+- Unsupervised Learning Models
+- Model Evaluations
 
 **Natural Language Processing:**
 - Sentence Embeddings (SBERT)
@@ -96,8 +96,8 @@ NLP-powered analysis of JPMorgan Chase consumer complaints (2019-2025) to uncove
 
 **Data Analysis & Visualization:**
 - Pandas, NumPy, Matplotlib, Seaborn, Plotly
-- Statistical Testing (ANOVA, T-tests, Chi-Square)
-- Geospatial Analysis (Folium)
+- Statistical Testings
+- Geospatial Analysis, Geo-locations analysis
 - Interactive Dashboards (Gradio)
 
 ---
