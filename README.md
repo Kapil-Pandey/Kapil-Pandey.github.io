@@ -30,7 +30,7 @@ I'm actively seeking data science and machine learning opportunities where I can
   
 [![Mining Safety Analysis Presentation](https://img.youtube.com/vi/1jP4WoGlnyE/maxresdefault.jpg)](https://www.youtube.com/watch?v=1jP4WoGlnyE)
 
-**Click the image above to watch the full presentation**
+**Click the image/link above to watch the full presentation**
 
 </div>
 
