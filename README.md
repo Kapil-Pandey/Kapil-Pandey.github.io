@@ -150,8 +150,8 @@ Predictive modeling to identify at-risk customers for TelcoConnect, enabling pro
 ##  Contact
 
 **Let's connect:**
-- 📧 **Email:** [your.email@example.com](mailto:kapil.pandey@outlook.com.au)
-- 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/kapillpandey/)
+- 📧 **Email:** [Kapil Pandey](mailto:kapil.pandey@outlook.com.au)
+- 💼 **LinkedIn:** [Kapil Pandey](https://www.linkedin.com/in/kapillpandey/)
 - 🌐 **Portfolio:** [Kapil-Pandey.github.io](https://Kapil-Pandey.github.io)
 - 🎥 **Presentation:** [Watch My Stakeholder Presentation](https://www.youtube.com/watch?v=1jP4WoGlnyE)
 
