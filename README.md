@@ -1,8 +1,46 @@
 # Data Science Portfolio - Kapil Pandey
 
-Welcome to my data science portfolio! This repository showcases my expertise in machine learning, natural language processing, and predictive analytics through real-world projects.
+<div align="center">
+  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Kapil--Pandey.github.io-blue?style=for-the-badge&logo=github)](https://Kapil-Pandey.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kapillpandey/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:kapil.pandey@outlook.com.au)
 
- **Portfolio Website:** [https://Kapil-Pandey.github.io](https://Kapil-Pandey.github.io)
+</div>
+
+---
+##  About Me
+
+I'm a data scientist passionate about leveraging machine learning and advanced analytics to solve complex business problems. My expertise spans the entire data science lifecycle—from data wrangling and exploratory analysis to building production-grade predictive models and interactive dashboards. I have extensive experience in:
+
+- Building end-to-end ML pipelines from data wrangling to model deployment
+- Applying NLP techniques to extract insights from unstructured text data
+- Creating interactive Gradio dashboards and stakeholder presentations
+- Translating technical findings into business recommendations
+
+I'm actively seeking data science and machine learning opportunities where I can contribute to solving challenging real-world problems.
+
+---
+
+##  Stakeholder Presentation
+
+**Watch my comprehensive stakeholder presentation on Mining Safety Analysis** - demonstrating my ability to communicate complex technical insights to business leaders and drive data-informed decision making.
+
+<div align="center">
+  
+[![Mining Safety Analysis Presentation](https://img.youtube.com/vi/1jP4WoGlnyE/maxresdefault.jpg)](https://www.youtube.com/watch?v=1jP4WoGlnyE)
+
+**Click the image above to watch the full presentation**
+
+</div>
+
+**Presentation Highlights:**
+- 25-year analysis of 270,000+ mining accidents
+- 99.99% ROC-AUC machine learning prediction model
+- NLP-powered root cause analysis using SBERT and K-Means
+- Actionable business recommendations with projected 30-40% accident reduction
+- Interactive Gradio dashboard demonstration
+- Clear ROI analysis and implementation roadmap
 
 ---
 
@@ -103,22 +141,11 @@ Predictive modeling to identify at-risk customers for TelcoConnect, enabling pro
 
 ##  Contact
 
-- **Email:** kapil.pandey@outlook.com.au
-- **LinkedIn:** [kapillpandey](https://www.linkedin.com/in/kapillpandey/)
-- **Portfolio:** [Kapil-Pandey.github.io](https://Kapil-Pandey.github.io)
-
----
-
-##  About Me
-
-I'm a data scientist specializing in machine learning, NLP, and predictive analytics. My work focuses on transforming complex data into actionable insights that drive business impact. I have extensive experience in:
-
-- Building end-to-end ML pipelines from data wrangling to model deployment
-- Applying NLP techniques to extract insights from unstructured text data
-- Creating interactive Gradio dashboards and stakeholder presentations
-- Translating technical findings into business recommendations
-
-I'm actively seeking data science and machine learning opportunities where I can contribute to solving challenging real-world problems.
+**Let's connect:**
+- 📧 **Email:** [your.email@example.com](mailto:kapil.pandey@outlook.com.au)
+- 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/kapillpandey/)
+- 🌐 **Portfolio:** [Kapil-Pandey.github.io](https://Kapil-Pandey.github.io)
+- 🎥 **Presentation:** [Watch My Stakeholder Presentation](https://www.youtube.com/watch?v=1jP4WoGlnyE)
 
 ---
 
