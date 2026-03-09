@@ -179,7 +179,7 @@
         /* Projects Grid */
         .projects-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+            grid-template-columns: repeat(2, 1fr);
             gap: 2.5rem;
             max-width: 1200px;
             margin: 0 auto;
@@ -554,6 +554,10 @@
             
             nav ul li:last-child a {
                 border-bottom: none;
+            }
+            
+            .projects-grid {
+                grid-template-columns: 1fr;
             }
             
             section h2 {
